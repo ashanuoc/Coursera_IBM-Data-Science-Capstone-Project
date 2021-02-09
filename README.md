@@ -1,5 +1,7 @@
 # Coursera_IBM-Data-Science-Capstone-Project
 
+# Opening a Restaurant in Colombo
+
 A repository for the capstone project for the IBM Data Science Certificate course
 
 ## Introduction / Business Problem
