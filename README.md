@@ -13,7 +13,7 @@ In this project, we will implement the basic analysis and try to find the most o
 
 The problem will be addressed in following steps:
 
-Step 1. Using a table on 'https://en.wikipedia.org/wiki/Colombo#:~:text=Colombo%20(/%20k%C9%99%CB%88l%CA%8Cmbo%CA%8A%20/;%20Sinhala:%20%E0%B6%9A%E0%B7%9C%E0%B7%85%E0%B6    %B9,%20romanized:%20Kolamba,,and%20largest%20city%20of%20Sri%20Lanka%20by%20population., collect information about Colombo suburbs.
+Step 1. Using a table on 'https://en.wikipedia.org/wiki/Colombo#:~:text=Colombo%20, collect information about Colombo suburbs.
 
 Step 2. Use the Geopy and Folium library to get the coordinates of every locations and map geospatial data on a Colombo map.
 
